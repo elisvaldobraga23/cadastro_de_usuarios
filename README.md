@@ -63,7 +63,7 @@ O objetivo do projeto é praticar os conceitos fundamentais do React — como **
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/elivaldobraga23/cadastro_de_usuarios.git
+git clone https://github.com/elisvaldobraga23/cadastro_de_usuarios.git
 ```
 
 ### 2️⃣ Entrar na pasta do projeto
